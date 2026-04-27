@@ -1,2 +1,2 @@
 # AWS-Refactor
-Rearchitecting VProfile webapp using ELB, EC2, RDS, AmazonMQ, Elasticache, S3
+Re-architected a multi-tier Java application on AWS using Elastic Beanstalk, RDS, ElastiCache, and Amazon MQ — replacing manual EC2-managed services with fully managed PaaS/SaaS to reduce operational overhead and improve scalability.
